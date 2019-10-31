@@ -14,3 +14,6 @@ http://hedengcheng.com/?p=771
 
 5. 算法刷题
 https://github.com/azl397985856/leetcode
+
+6. 网络编程
+http://www.52im.net/thread-2740-1-1.html
